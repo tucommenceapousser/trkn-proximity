@@ -1,0 +1,11 @@
+--2023-11-05 09:21:59--  https://raw.githubusercontent.com/Athlon1600/php-proxy-installer/master/install.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3936 (3.8K) [text/plain]
+Saving to: ‘STDOUT’
+
+-               0%       0  --.-KB/s                 -             100%   3.84K  --.-KB/s    in 0s        
+
+2023-11-05 09:21:59 (62.9 MB/s) - written to stdout [3936/3936]
+

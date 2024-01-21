@@ -1,0 +1,7 @@
+run = "php -S 0.0.0.0:8000 -t ."
+
+entrypoint = "index.php"
+
+[deployment]
+deploymentTarget = "cloudrun"
+run = ["sh", "-c", "php -S 0.0.0.0:8000 -t ."]
