@@ -163,6 +163,7 @@
 		<strong>	<font color="red"><p>This proxy uses sessions for enhanced security and Base64 encoding to protect your privacy.</p></font></strong>
 			<p>Your online activities remain anonymous while using this proxy.</p>
 			<p>for deploy your own proxy , fork <a href="https://proximity-trkn.replit.app">this repl</a></p>
+			<p>or clone this <a href="https://github.com/tucommenceapousser/trkn-proximity.git">repo</a></p>
 	</div>
 
 		<!-- Code JavaScript pour afficher la fenêtre modale de confirmation -->
