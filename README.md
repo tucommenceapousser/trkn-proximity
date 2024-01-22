@@ -6,7 +6,7 @@
 </center>
 
 
-# php-proxy-app
+# trkn-proximity
 
 Web Proxy Application built on [**php-proxy library**](https://github.com/tucommenceapousser/trkn-proximity) ready to be installed on your server
 
